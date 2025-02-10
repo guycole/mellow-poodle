@@ -1,0 +1,6 @@
+#
+# URL to post skunk update
+skunk_url: "http://localhost:8000/poodle/"
+#skunk_url: "http://localhost/poodle/"
+skunk_url: "http://192.168.1.131/poodle/"
+#
